@@ -24,5 +24,6 @@ def circulate():
  ```
   
 ## Output:
+![Screenshot from 2022-12-26 12-58-08](https://user-images.githubusercontent.com/120550359/209518231-7e5f2aac-b04c-4032-92a2-ddd834db13e0.png)
 
 ## Result:
